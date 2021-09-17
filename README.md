@@ -1,6 +1,6 @@
 # UsbAsp-flash
-Альтернативная прошивка  и программа для UsbAsp позволяющая программировать флеш память по протоколам SPI, I2C, MicroWire.
-Обсуждение на форуме easyelectronics.ru http://forum.easyelectronics.ru/viewtopic.php?f=17&t=10947
+เฟิร์มแวร์และโปรแกรมทางเลือกสำหรับ UsbAsp ที่ให้คุณตั้งโปรแกรมหน่วยความจำแฟลชโดยใช้โปรโตคอล SPI, I2C, MicroWire
+กระดานสนทนา easyelectronics.ru http://forum.easyelectronics.ru/viewtopic.php?f=17&t=10947
 
-Alternative firmware and UsbAsp program allow you to program flash memory on the protocols spi, I2C, MicroWire.
-Discussion on the forum easyelectronics.ru http://forum.easyelectronics.ru/viewtopic.php?f=17&t=10947
+เฟิร์มแวร์ทางเลือกและโปรแกรม UsbAsp ช่วยให้คุณสามารถตั้งโปรแกรมหน่วยความจำแฟลชบนโปรโตคอล spi, I2C, MicroWire อภิปรายในฟอรั่ม
+อภิปรายในฟอรั่ม easyelectronics.ru http://forum.easyelectronics.ru/viewtopic.php?f=17&t=10947
